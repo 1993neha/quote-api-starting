@@ -21,8 +21,5 @@ Run application
 node server.js
 Open browser and paste localhost:5500 to URL bar.
 
-Live
-Test now at 
-
 Contributing
 I welcome contributions to the Quote API!
